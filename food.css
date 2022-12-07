@@ -1,0 +1,175 @@
+
+
+hr{
+    height: 2px;
+    background-color: black;
+}
+.himanshu{
+    width: 300px; 
+    height: 300px;
+    background-color: cyan;
+    color: black;
+    border-radius: 20px;
+    border: 5px solid royalblue;
+    margin-left:600px;
+    margin-top: 61em;
+    text-align: center;
+     
+     position: absolute;
+
+}
+.nikhil{
+    width: 300px; 
+    height: 300px;
+    background-color: cyan;
+    color: black;
+    border-radius: 20px;
+    border: 5px solid royalblue;
+     margin-left:1150px;
+     margin-top: 60em;
+     text-align: center;
+     
+     position: absolute;
+    
+
+
+}
+.chotu{
+    width: 400px; 
+    height: 400px;
+    font-size: 22px;
+    color: black;
+    border-radius: 50%;
+    border: 5px solid gray;
+     margin-top:15em;
+     margin-left: 4px;
+    text-align:center;
+    background-color:brown;
+    
+
+}
+
+.container1{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    height: 30px;
+    width:600px ;
+    border: 5px solid red;
+    padding: 50px;
+}
+.container2{
+    background-color: black;
+    color: white;
+    border: 7px solid red;
+    height: 50px;
+    width: 450px;
+    border-radius: 100px;
+    text-align: center;
+    position: absolute;
+    margin-top:-6%;
+    padding: 5px;
+    
+    margin-left: 30%;    
+    font-style: italic;  
+}
+.container3
+{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    height: 16%;
+    width:300px ;
+    border: 5px solid red;
+    text-align: center;
+    margin-left: 75%;
+    margin-top: -7%;
+    font-size: 17px;
+    
+}
+.form{
+    border: 10px dashed purple;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: -40em;
+    color: brown;
+    height: 90%;
+    width: 30%;
+    line-height: 250%;
+}
+.abc{
+    width: 300px; 
+    height: 300px;
+    background-color: cyan;
+    color: black;
+    border-radius: 15px;
+    border: 5px solid royalblue;
+    margin-top:970px; 
+    text-align: center;
+    
+     position: absolute;
+    
+}
+.menu{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 25px;
+    height: 100px;
+    width: 300px;;
+    border: 5px solid red;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 1em;
+    text-align: center;
+    font-size:40px ;
+
+}
+.menuheight
+{
+    margin-top:10px;
+}
+.prateek{
+    width: 300px; 
+    height: 300px;
+    background-color: cyan;
+    color: black;
+    border-radius: 15px;
+    border: 5px solid royalblue;
+     
+     margin-top: 30em;
+     text-align: center;
+     
+     position: absolute;
+}
+.rajeev{
+    
+        width: 300px; 
+        height: 300px;
+        background-color: cyan;
+        color: black;
+        border-radius: 15px;
+        border: 5px solid royalblue;
+        margin-left:600px; 
+        margin-top: 30em;
+        text-align: center;
+         
+         position: absolute;
+}
+.diviyanshu{
+    width: 300px; 
+    height: 300px;
+    background-color: cyan;
+    color: black;
+    border-radius: 15px;
+    border: 5px solid royalblue;
+    margin-left:1150px; 
+    margin-top: 30em;
+    text-align: center;
+     
+    position: absolute;
+    font-size: px; 
+}
+h1
+{
+    margin-top:5px;
+}
